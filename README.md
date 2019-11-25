@@ -1,3 +1,7 @@
+# cnp-module-api-mgmt-api-policy
+
+A terraform module for creating a policy for an API in API mgmt
+
 ## Inputs
 
 | Name | Description | Type | Default |
